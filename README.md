@@ -17,6 +17,10 @@ https://rawgit.com/sudz123/Happy_Hacking/master/src/home.html
 https://raw.githack.com/sudz123/Happy_Hacking/master/src/home.html
 (both show the same thing, one using rawgit and the other using githack)
 
+# :muscle: Challenge :muscle:
+
+Looking for something a bit more challenging? Check out the [Optimizer](https://github.com/sudz123/Optimizer) repository for advanced projects to test your skills. 
+
 # :bookmark: IMPORTANT :bookmark:
 
 Since this repository is gaining some momentum, We expect good grammar in all PRs. We also expect proper comments in the code. The code could be trivial with a small change, that is totally fine.
